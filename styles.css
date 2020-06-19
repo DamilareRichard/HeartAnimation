@@ -186,8 +186,8 @@ section{
 
 .link a{
 	position: absolute;
-	top: 1120px;
-	left: 320px;
+	top: 1000px;
+	left: 220px;
 	font-family: inherit;
 	text-decoration: none;
 	
@@ -195,8 +195,8 @@ section{
 
 .or{
 	position: absolute;
-	top: 1180px;
-	left: 370px;
+	top: 1050px;
+	left: 270px;
 }
 
 button.social{
@@ -207,7 +207,7 @@ button.social{
 	height: 30px;
 	position: relative;
 	margin-bottom: 10px;
-	margin-left: 30px;
+	margin-left: 40px;
 	font-size: 18px;
 	font-family: inherit;
 
@@ -243,8 +243,8 @@ button.social{
 .Terms{
 	position: absolute;
 	margin: 10px;
-	left: 270px;
-	top: 1320px;
+	left: 200px;
+	top: 1210px;
 	
 }
 
@@ -256,8 +256,8 @@ button.social{
 
 .note h3{
 	position: absolute;
-	left: 800px;
-	top: 970px;
+	left: 740px;
+	top: 870px;
 	color: #000;
 	font-size: 22px;
 	font-family: 'PT Sans', sans-serif;
@@ -268,7 +268,7 @@ button.social{
 	font-size: 18px;
 	color: #000;
 	font-weight: 700;
-	margin-left: 220px;
+	margin-left: 250px;
 	margin-top: -100px;
 	width: 40%;
 	text-align: center;
@@ -284,13 +284,13 @@ button.social{
 	transform: rotate(90deg);
 	transform-origin: 0 0;
 	position: absolute;
-	top: 1380px;
-	left: 430px;
+	top: 1270px;
+	left: 370px;
 }
 .signup{
 	position: absolute;
-	top: 1430px;
-	left: 280px;
+	top: 1290px;
+	left: 210px;
 
 }
 
@@ -371,7 +371,7 @@ main p{
 .plan h2{
 	margin-left: 65px;
 	position: absolute;
-	top: 3100px;
+	top: 2780px;
 	padding: 10px 60px;
 	text-align: left;
 	
@@ -422,7 +422,7 @@ main p{
 	height: 40px;
 	background: #31AA52;
 	color: #fff;
-	margin-left: 650px;
+	margin-left: 580px;
 	margin-top: 100px;
 	text-align: center;
 	padding: 8px 14px; 
@@ -491,37 +491,37 @@ main p{
 	}
 	
 	.link a{
-		top: 1000px;
+		top: 950px;
 		left: 90px;
 	}
 
 	.or{
-		top: 1050px;
+		top: 1000px;
 		left: 150px;
 	}
 
 	.Terms {
-		top: 1220px;
+		top: 1150px;
 		left: 50px;
 	}
 	.horizonLine{
-		top: 1280px;
+		top: 1210px;
 		left: 230px;
 	}
 	.signup{
-		top: 1300px;
+		top: 1240px;
 		left: 60px;
 	}
 
 	.note h3{
-		top: 1350px;
+		top: 1270px;
 		left: 50px;
 	}
 	.flow{
 		width: 70%;
-		left: -200px;
+		left: -220px;
 		font-weight: normal;
-		top: 270px;
+		top: 260px;
 	}
 
 	main{
@@ -599,6 +599,6 @@ main p{
 
 	}
 	.main-footer p{
-		margin-left: 100px;
+		margin-left: 75px;
 	}
 }
